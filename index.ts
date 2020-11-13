@@ -46,4 +46,5 @@ function getData3<T>(param: T): void{
 getData3(user.name);
 getData3(user.phone);
 
+
 // Ánimo que ya lo tenéis!
